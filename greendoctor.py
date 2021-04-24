@@ -36,6 +36,8 @@ width=256
 height=256
 depth=3
 
+
+
 def convert_image_to_array(image_dir):
     try:
         image = cv2.imread(image_dir)
@@ -57,6 +59,8 @@ try:
         if directory == ".DS_Store" :
             root_dir.remove(directory)
 
+            "Go over this code and find images"
+            
     for plant_folder in root_dir :
         plant_disease_folder_list = listdir(f"{directory_root}/{plant_folder}")
         
