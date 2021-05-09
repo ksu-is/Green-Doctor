@@ -1,6 +1,5 @@
 # Green-Doctor
-Building a website that will help diagnose diseases in houseplants and provide tips on how to cure them.
+Building a website that will help diagnose diseases in plants..
 
-Users will type in characterisitics of the plant's current stage to determine the possible disease of the houseplant and will provide them tips to cure the plant. 
-
-Note: This only can diagnose diseases within common houseplants, not outdoor plants and crops. 
+Users will upload a picture of the plant's current stage to determine the root of it's problem. 
+ 
