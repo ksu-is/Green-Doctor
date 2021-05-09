@@ -37,7 +37,7 @@ def model_predict(img_path, model):
 @app.route('/', methods=['GET'])
 def index():
     # Main page
-    return render_template('index.html')
+    return render_template('pdindex.html')
 
 
 @app.route('/predict', methods=['GET', 'POST'])
